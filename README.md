@@ -7,3 +7,7 @@ This script automates the process of editing timing for subtitles in Aegisub, al
 1. **Select the Folder**: Choose the folder containing the subtitle files.
 2. **Choose Timing Direction**: Select the timing direction (**Forward** or **Backward**).
 3. **Enter Shift Time**: Input the value for the time shift, e.g., `0:00:01.00`.
+
+
+### Note
+Make sure you go to aegisub settings "**General**" -> "**Automatically load linked files**" and select "**Never**"
