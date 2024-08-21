@@ -10,4 +10,4 @@ This script automates the process of editing timing for subtitles in Aegisub, al
 
 
 ### Note
-Make sure you go to aegisub settings "**General**" -> "**Automatically load linked files**" and select "**Never**"
+Make sure you go to aegisub settings "**General**" -> "**Automatically load linked files**" and select "**Never**" in case of the unexpected popup.
